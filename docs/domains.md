@@ -7,6 +7,8 @@ An app that allows you to track prices of day-to-day items in your Pantry (techn
 
 This is my real world problem, that this program will try to solve.
 
+![](./domain-map.png)
+
 ## Stores
 A store (physical or online) that is selling the item you would like to track, and compare the prices of the item from this store with others in the area.
 
